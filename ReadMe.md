@@ -27,7 +27,7 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
     * [] Heap Sort
 * [] Math and Logic
     * [] Prime Number
-    * [] Reverse Number
+    * [x] Reverse Number
     * [] Fibonacci
     * [] Palindrome
     * [] Armstrong

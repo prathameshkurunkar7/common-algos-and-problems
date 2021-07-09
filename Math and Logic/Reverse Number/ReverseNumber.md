@@ -10,4 +10,5 @@
 6. Repeat the above process until `number` boils down to zero.
 
 _Time Complexity: O(n)_
+
 _Auxiliary Space: O(1)_

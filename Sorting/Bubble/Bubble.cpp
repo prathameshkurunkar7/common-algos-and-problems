@@ -27,7 +27,7 @@ void bubble(int* arr,int n)
     }
 }
 int main(){
-    int n,arr[20],x,res;
+    int n,arr[20];
     cout<<"Enter length of array: "<<endl;
     cin>>n;
     if(n>20){

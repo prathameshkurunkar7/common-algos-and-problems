@@ -2,7 +2,8 @@
 
 This repository aims to collect solutions for frequently asked problems in DSA.
 
-If you have solutions for any such problems, feel free to add it into this repository. Preferred Implementations would be in languages like: *C++, Java, Python*
+If you have solutions for any such problems, feel free to add it into this repository. Preferred Implementations would be in languages like: *C++, Java, Python* .
+
 You can add solutions in other language if one is already existing in repo.
 Make sure you add .py files in case of Python and not Jupyter Notebook solutions.
 

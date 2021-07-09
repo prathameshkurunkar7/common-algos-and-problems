@@ -10,5 +10,7 @@ If x doesn’t match with any of elements, return -1.
 Linear search is rarely used practically because other search algorithms such as the binary search algorithm and hash tables allow significantly faster-searching comparison to Linear search.
 
 _Time Complexity(Avg and Worst): O(n)_
+
 _Best-Case Time Complexity: O(1)_
+
 _Worst-Case Space complexity: O(1) iterative_

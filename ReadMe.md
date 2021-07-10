@@ -27,7 +27,7 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
   - [ ] Radix/Bucket Sort
   - [ ] Heap Sort
 - [ ] Math and Logic
-  - [ ] Prime Number
+  - [x] Prime Number
   - [x] Reverse Number
   - [x] Fibonacci
   - [x] Palindrome

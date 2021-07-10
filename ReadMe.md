@@ -15,32 +15,30 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
 
 ### Few problems that can be added or are already added:
 
-- [] Searching
+- [ ] Searching
   - [x] Binary Search
   - [x] Linear Search
-- [] Sorting
+- [ ] Sorting
   - [x] Bubble Sort
-  - [] Insertion Sort
+  - [x] Insertion Sort
   - [x] Selection Sort
-  - [] Merge Sort
-  - [] Quick Sort
-  - [] Radix/Bucket Sort
-  - [] Heap Sort
-- [] Math and Logic
-  - [] Prime Number
+  - [ ] Merge Sort
+  - [ ] Quick Sort
+  - [ ] Radix/Bucket Sort
+  - [ ] Heap Sort
+- [ ] Math and Logic
+  - [ ] Prime Number
   - [x] Reverse Number
-  - [] Fibonacci
+  - [ ] Fibonacci
   - [x] Palindrome
-  - [] Armstrong
-- [] Arrays Operations and Common Problems
-- [] String Operations and Common Problems
-- [] Matrix Operations and Common Problems
-- [] Linked List Operations and Common Problems
-- [] Stack Operations and Common Problems
-- [] Queue Operations and Common Problems
-- [] Tree Operations and Common Problems
-- [] Graphs Operations and Common Problems
-- [] HashTables Operations and Common Problems
-- [] Bit Manipulation and Common Problems
-
-- [ ] Task-3
+  - [ ] Armstrong
+- [ ] Arrays Operations and Common Problems
+- [ ] String Operations and Common Problems
+- [ ] Matrix Operations and Common Problems
+- [ ] Linked List Operations and Common Problems
+- [ ] Stack Operations and Common Problems
+- [ ] Queue Operations and Common Problems
+- [ ] Tree Operations and Common Problems
+- [ ] Graphs Operations and Common Problems
+- [ ] HashTables Operations and Common Problems
+- [ ] Bit Manipulation and Common Problems

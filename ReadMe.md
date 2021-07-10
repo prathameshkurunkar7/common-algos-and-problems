@@ -29,7 +29,7 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
 - [ ] Math and Logic
   - [ ] Prime Number
   - [x] Reverse Number
-  - [ ] Fibonacci
+  - [x] Fibonacci
   - [x] Palindrome
   - [ ] Armstrong
 - [ ] Arrays Operations and Common Problems

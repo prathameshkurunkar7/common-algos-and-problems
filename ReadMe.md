@@ -36,7 +36,7 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
   - [x] Activity Selection
   - [ ] Huffman Decoding
   - [ ] Fractional Knapsack
-  - [ ] Job Sequencing
+  - [x] Job Sequencing
   - [ ] Prim's Minimum Spanning Tree
   - [ ] Largest Number with given Sum
   - [ ] N meetings in one room

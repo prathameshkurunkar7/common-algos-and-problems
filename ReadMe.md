@@ -38,7 +38,9 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
   - [ ] Fractional Knapsack
   - [ ] Job Sequencing
   - [ ] Prim's Minimum Spanning Tree
-  - [ ] Largest Number with given sum
+  - [ ] Largest Number with given Sum
+  - [ ] N meetings in one room
+  - [ ] Buy Maximum Stocks if i stocks can be bought on i-th day
 - [ ] Arrays Operations and Common Problems
 - [ ] String Operations and Common Problems
 - [ ] Matrix Operations and Common Problems

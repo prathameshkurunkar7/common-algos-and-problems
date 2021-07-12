@@ -32,6 +32,13 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
   - [x] Fibonacci
   - [x] Palindrome
   - [ ] Armstrong
+- [ ] Greedy Problems
+  - [x] Activity Selection
+  - [ ] Huffman Decoding
+  - [ ] Fractional Knapsack
+  - [ ] Job Sequencing
+  - [ ] Prim's Minimum Spanning Tree
+  - [ ] Largest Number with given sum
 - [ ] Arrays Operations and Common Problems
 - [ ] String Operations and Common Problems
 - [ ] Matrix Operations and Common Problems

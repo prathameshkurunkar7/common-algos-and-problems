@@ -199,6 +199,7 @@ cython_debug/
 hs_err_pid*
 
 # VsCode settings
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json

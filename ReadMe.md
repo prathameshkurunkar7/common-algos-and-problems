@@ -42,6 +42,7 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
   - [ ] N meetings in one room
   - [ ] Buy Maximum Stocks if i stocks can be bought on i-th day
 - [ ] Arrays Operations and Common Problems
+  - [x] Reversing a Array/ List
 - [ ] String Operations and Common Problems
 - [ ] Matrix Operations and Common Problems
 - [ ] Linked List Operations and Common Problems

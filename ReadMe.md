@@ -35,7 +35,7 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
 - [ ] Greedy Problems
   - [x] Activity Selection
   - [ ] Huffman Decoding
-  - [ ] Fractional Knapsack
+  - [x] Fractional Knapsack
   - [x] Job Sequencing
   - [ ] Prim's Minimum Spanning Tree
   - [ ] Largest Number with given Sum

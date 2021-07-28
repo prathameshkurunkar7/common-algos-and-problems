@@ -41,6 +41,11 @@ Make sure you add .py files in case of Python and not Jupyter Notebook solutions
   - [ ] Largest Number with given Sum
   - [ ] N meetings in one room
   - [ ] Buy Maximum Stocks if i stocks can be bought on i-th day
+- [ ] Dynamic Programming Problems
+  - [x] Fibonacci (Find nth term)
+    - [x] Memoization
+    - [x] Tabulation
+  - [ ] Coin Change
 - [ ] Arrays Operations and Common Problems
   - [x] Reversing a Array/ List
 - [ ] String Operations and Common Problems
